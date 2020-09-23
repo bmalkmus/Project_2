@@ -17,6 +17,7 @@ Recipe Screenshot
 
 
 ## Usage
+https://bootleg-cooking.herokuapp.com/ <br>
 https://arcane-escarpment-28279.herokuapp.com/ <br>
 Sign in or Login in to reach the recipe search landing page. 
 
